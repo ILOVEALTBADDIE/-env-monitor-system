@@ -1,0 +1,5 @@
+﻿,temperature,temperature,humidity,humidity,pm25,pm25,pm25
+,mean,std,mean,std,mean,std,max
+location,,,,,,,
+站点A,25.05,4.97,57.28,10.18,51.04,22.76,81.29
+站点B,23.07,3.89,60.3,8.43,49.64,16.69,79.56
