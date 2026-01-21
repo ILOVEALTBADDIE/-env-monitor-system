@@ -58,7 +58,7 @@ env-monitor-system/
 ## 四、可视化分析
 
 ### 4.1 时间序列分析
-[图片：timeseries.png]
+![时间序列分析](timeseries.png)
 
 分析结论：
 - 温度呈现XX趋势
@@ -66,10 +66,11 @@ env-monitor-system/
 - PM2.5在XX日期出现峰值
 
 ### 4.2 数据分布特征
-[图片：distribution.png]
+![数据分布特征](distribution.png)
+
 
 ### 4.3 指标相关性
-[图片：correlation.png]
+![指标相关性](correlation.png)
 
 ## 五、优化建议
 
